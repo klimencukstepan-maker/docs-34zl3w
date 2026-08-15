@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-24ewdx.indocuan-pro.site/sitemap.xml
